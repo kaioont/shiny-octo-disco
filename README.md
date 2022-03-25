@@ -1,1 +1,1 @@
-# to get this set up just do the steps in setup.txt
+# to get this set up just get in the testsite folder and run the command hugo server -D 
